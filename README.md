@@ -3,13 +3,14 @@
   <h1>
   Hi, This is Shitba Kashif
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" style="max-width: 100%;">
   </h1>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/shitba-kashif-2ab080219/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <br><br>
+    <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=shitbaKashif&label=Profile%20views&color=red&style=flat" alt="shitba"/> 
   
