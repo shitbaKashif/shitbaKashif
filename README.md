@@ -234,28 +234,11 @@
 
 <div align="center">
 
-<!--
-USING ONLY 100% RELIABLE SERVICES:
-- shields.io (never goes down)
-- ghchart.rshah.org (dedicated contribution graph service)
-- Simple manual stats (no API dependencies)
--->
-
-<!-- Row 1: Core Stats -->
-<p>
-  <img src="https://img.shields.io/github/followers/shitbaKashif?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/following/shitbaKashif?label=Following&style=for-the-badge&color=purple&logo=github" alt="Following" />
-  <img src="https://img.shields.io/github/repos/shitbaKashif?label=Public%20Repositories&style=for-the-badge&color=green&logo=github" alt="Public Repos" />
-</p>
-
-<!-- Row 2: Activity Metrics -->
-<p>
-  <img src="https://img.shields.io/badge/Profile%20Views-Loading...-blue?style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Joined-2022-blue?style=for-the-badge&logo=github&logoColor=white" alt="Joined" />
-  <img src="https://img.shields.io/badge/Location-Pakistan-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-</p>
-
-<br>
+  <!-- GitHub Stats Cards -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shitbaKashif&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shitbaKashif&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
 
   <!-- Activity Graph -->
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
