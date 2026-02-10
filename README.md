@@ -228,34 +228,44 @@
 
 <br>
 
-<!-- GitHub Analytics - NUCLEAR OPTION (Guaranteed to work) -->
+<!-- GitHub Analytics - NO API TOKEN REQUIRED -->
 <details open>
 <summary><h2>📊 GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2></summary>
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shitbaKashif&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" height="200" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=shitbaKashif&theme=radical&hide_border=true" width="100%" height="200" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<!-- 
+SOLUTION: Use services that scrape public data instead of GitHub API
+These don't require GitHub tokens and won't give 401 errors
+-->
 
-<br>
+<!-- GitHub Stats using githubstats.com (scrapes public profile) -->
+<img src="https://githubstats.com/shitbaKashif/chart" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shitbaKashif&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" height="200" alt="Top Languages" />
+<!-- Alternative: Use simple badge-based stats that don't require API -->
+<br><br>
+
+<!-- Custom Stats Row using shields.io (always works) -->
+<img src="https://img.shields.io/github/stars/shitbaKashif?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github" alt="Total Stars" />
+<img src="https://img.shields.io/github/forks/shitbaKashif?label=Total%20Forks&style=for-the-badge&color=blue&logo=github" alt="Total Forks" />
+<img src="https://img.shields.io/github/followers/shitbaKashif?label=Followers&style=for-the-badge&color=green&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/following/shitbaKashif?label=Following&style=for-the-badge&color=purple&logo=github" alt="Following" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=github-compact&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+<!-- Top Languages using github-readme-stats with public instance -->
+<!-- Note: Using a different public instance that doesn't require token -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitbaKashif&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&count_private=false" alt="Top Languages" width="60%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shitbaKashif&theme=radical&no-frame=true&row=1&column=6" width="100%" alt="Trophies" />
+<!-- Contribution Graph using github-readme-activity-graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+
+<br><br>
+
+<!-- Trophies - this usually works without token for public profiles -->
+<img src="https://github-profile-trophy.vercel.app/?username=shitbaKashif&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" width="100%" />
 
 </div>
 </details>
