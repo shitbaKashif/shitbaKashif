@@ -228,43 +228,78 @@
 
 <br>
 
-<!-- GitHub Analytics - 100% RELIABLE (No API calls) -->
+<!-- GitHub Analytics - 100% RELIABLE VERSION -->
 <details open>
 <summary><h2>📊 GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2></summary>
 
 <div align="center">
 
-<!-- 
-SOLUTION: Use only shields.io badges which scrape public data
-No GitHub API required = No 401 errors ever
+<!--
+USING ONLY 100% RELIABLE SERVICES:
+- shields.io (never goes down)
+- ghchart.rshah.org (dedicated contribution graph service)
+- Simple manual stats (no API dependencies)
 -->
 
-<!-- Main Stats Badges -->
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shitbaKashif&style=for-the-badge&color=FFD700&logo=github" alt="Total Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=%24.commits&url=https://api.github-star-counter.workers.dev/user/shitbaKashif&style=for-the-badge&color=2088FF&logo=github" alt="Total Commits" />
-</p>
-
+<!-- Row 1: Core Stats -->
 <p>
   <img src="https://img.shields.io/github/followers/shitbaKashif?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/following/shitbaKashif?label=Following&style=for-the-badge&color=purple&logo=github" alt="Following" />
-  <img src="https://img.shields.io/github/repos/shitbaKashif?label=Public%20Repos&style=for-the-badge&color=green&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/github/repos/shitbaKashif?label=Public%20Repositories&style=for-the-badge&color=green&logo=github" alt="Public Repos" />
+</p>
+
+<!-- Row 2: Activity Metrics -->
+<p>
+  <img src="https://img.shields.io/badge/Profile%20Views-Loading...-blue?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Joined-2022-blue?style=for-the-badge&logo=github&logoColor=white" alt="Joined" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 <br>
 
-<!-- Language Stats using github-readme-stats (public instance without token) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitbaKashif&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&count_private=false&include_all_commits=false" alt="Top Languages" width="60%" />
+<!-- Contribution Graph - MOST RELIABLE SERVICE -->
+<h3>📈 Contribution Activity</h3>
+<img src="https://ghchart.rshah.org/FF6B6B/shitbaKashif" alt="GitHub Contribution Graph" width="90%" />
 
 <br><br>
 
-<!-- Manual Contribution Graph (always works) -->
-<img src="https://ghchart.rshah.org/shitbaKashif" alt="Contribution Graph" width="90%" />
+<!-- Language Distribution - MANUAL BADGES (Guaranteed to work) -->
+<h3>💻 Most Used Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</p>
 
-<br><br>
+<br>
 
-<!-- Profile Trophy (public data only) -->
-<img src="https://github-profile-trophy.vercel.app/?username=shitbaKashif&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" width="100%" />
+<!-- GitHub Streak Alternative - Simple Counter -->
+<h3>🔥 Coding Streak</h3>
+<p>
+  <img src="https://img.shields.io/badge/Current%20Streak-Active-brightgreen?style=for-the-badge&logo=fire&logoColor=orange" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-3%20Days-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Longest Streak" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-214-purple?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+</p>
+
+<br>
+
+<!-- Achievements - Custom Badges -->
+<h3>🏆 Achievements</h3>
+<p>
+  <img src="https://img.shields.io/badge/AI%20Engineer-Jazz-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Engineer at Jazz" />
+  <img src="https://img.shields.io/badge/Research-PCN%20Lab-blue?style=for-the-badge&logo=researchgate&logoColor=white" alt="PCN Lab" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Event%20Head-Agentika%20Hackathon-gold?style=for-the-badge&logo=trophy&logoColor=black" alt="Agentika Hackathon" />
+  <img src="https://img.shields.io/badge/Intern%20Head-KDD%20Lab-red?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="KDD Lab" />
+</p>
 
 </div>
 </details>
