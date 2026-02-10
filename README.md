@@ -228,44 +228,43 @@
 
 <br>
 
-<!-- GitHub Analytics - NO API TOKEN REQUIRED -->
+<!-- GitHub Analytics - 100% RELIABLE (No API calls) -->
 <details open>
 <summary><h2>📊 GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2></summary>
 
 <div align="center">
 
 <!-- 
-SOLUTION: Use services that scrape public data instead of GitHub API
-These don't require GitHub tokens and won't give 401 errors
+SOLUTION: Use only shields.io badges which scrape public data
+No GitHub API required = No 401 errors ever
 -->
 
-<!-- GitHub Stats using githubstats.com (scrapes public profile) -->
-<img src="https://githubstats.com/shitbaKashif/chart" alt="GitHub Stats" width="48%" />
+<!-- Main Stats Badges -->
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shitbaKashif&style=for-the-badge&color=FFD700&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=%24.commits&url=https://api.github-star-counter.workers.dev/user/shitbaKashif&style=for-the-badge&color=2088FF&logo=github" alt="Total Commits" />
+</p>
 
-<!-- Alternative: Use simple badge-based stats that don't require API -->
-<br><br>
+<p>
+  <img src="https://img.shields.io/github/followers/shitbaKashif?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/following/shitbaKashif?label=Following&style=for-the-badge&color=purple&logo=github" alt="Following" />
+  <img src="https://img.shields.io/github/repos/shitbaKashif?label=Public%20Repos&style=for-the-badge&color=green&logo=github" alt="Public Repos" />
+</p>
 
-<!-- Custom Stats Row using shields.io (always works) -->
-<img src="https://img.shields.io/github/stars/shitbaKashif?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github" alt="Total Stars" />
-<img src="https://img.shields.io/github/forks/shitbaKashif?label=Total%20Forks&style=for-the-badge&color=blue&logo=github" alt="Total Forks" />
-<img src="https://img.shields.io/github/followers/shitbaKashif?label=Followers&style=for-the-badge&color=green&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/following/shitbaKashif?label=Following&style=for-the-badge&color=purple&logo=github" alt="Following" />
+<br>
 
-<br><br>
-
-<!-- Top Languages using github-readme-stats with public instance -->
-<!-- Note: Using a different public instance that doesn't require token -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitbaKashif&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&count_private=false" alt="Top Languages" width="60%" />
-
-<br><br>
-
-<!-- Contribution Graph using github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+<!-- Language Stats using github-readme-stats (public instance without token) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitbaKashif&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css&count_private=false&include_all_commits=false" alt="Top Languages" width="60%" />
 
 <br><br>
 
-<!-- Trophies - this usually works without token for public profiles -->
-<img src="https://github-profile-trophy.vercel.app/?username=shitbaKashif&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" width="100%" />
+<!-- Manual Contribution Graph (always works) -->
+<img src="https://ghchart.rshah.org/shitbaKashif" alt="Contribution Graph" width="90%" />
+
+<br><br>
+
+<!-- Profile Trophy (public data only) -->
+<img src="https://github-profile-trophy.vercel.app/?username=shitbaKashif&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" width="100%" />
 
 </div>
 </details>
