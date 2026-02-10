@@ -266,7 +266,7 @@
 | **Head of AI/ML/Data Interns** | PCN Lab | Jun 2024 - Aug 2024 | Mentored interns in AI/ML projects |
 | **Head of NLP/CV/DL Interns** | KDD Lab | May 2025 - Aug 2025 | Led deep learning research initiatives |
 | **Event Head - Agentika** | TechConnect FAST | 2024 | Organized FAST's **first-ever Agent-based AI Hackathon** |
-| **IT Team Member** | Nascon FAST | 2023-2024 | Developed official Nascon website |
+| **IT Team Member** | Nascon FAST | 2023 | Developed official Nascon website |
 
 ### 🚀 Agentika: AI Agent Hackathon Success
 > *"Organized FAST's first-ever agent-based AI hackathon, providing hands-on experience with building intelligent agents using cutting-edge technologies. Set the stage for innovative AI applications at our university."*
