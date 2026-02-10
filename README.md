@@ -234,11 +234,9 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Cards -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shitbaKashif&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shitbaKashif&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shitbaKashif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shitbaKashif&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shitbaKashif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <!-- Activity Graph -->
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
@@ -258,16 +256,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</p>
-
-<br>
-
-<!-- GitHub Streak Alternative - Simple Counter -->
-<h3>🔥 Coding Streak</h3>
-<p>
-  <img src="https://img.shields.io/badge/Current%20Streak-Active-brightgreen?style=for-the-badge&logo=fire&logoColor=orange" alt="Current Streak" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-3%20Days-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Longest Streak" />
-  <img src="https://img.shields.io/badge/Total%20Contributions-214-purple?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
 </p>
 
 <br>
