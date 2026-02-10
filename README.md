@@ -257,11 +257,10 @@ USING ONLY 100% RELIABLE SERVICES:
 
 <br>
 
-<!-- Contribution Graph - MOST RELIABLE SERVICE -->
-<h3>📈 Contribution Activity</h3>
-<img src="https://ghchart.rshah.org/FF6B6B/shitbaKashif" alt="GitHub Contribution Graph" width="90%" />
-
-<br><br>
+  <!-- Activity Graph -->
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  
+  <br><br>
 
 <!-- Language Distribution - MANUAL BADGES (Guaranteed to work) -->
 <h3>💻 Most Used Languages</h3>
@@ -290,16 +289,6 @@ USING ONLY 100% RELIABLE SERVICES:
 
 <br>
 
-<!-- Achievements - Custom Badges -->
-<h3>🏆 Achievements</h3>
-<p>
-  <img src="https://img.shields.io/badge/AI%20Engineer-Jazz-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Engineer at Jazz" />
-  <img src="https://img.shields.io/badge/Research-PCN%20Lab-blue?style=for-the-badge&logo=researchgate&logoColor=white" alt="PCN Lab" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Event%20Head-Agentika%20Hackathon-gold?style=for-the-badge&logo=trophy&logoColor=black" alt="Agentika Hackathon" />
-  <img src="https://img.shields.io/badge/Intern%20Head-KDD%20Lab-red?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="KDD Lab" />
-</p>
 
 </div>
 </details>
