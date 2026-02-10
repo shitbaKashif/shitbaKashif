@@ -228,31 +228,35 @@
 
 <br>
 
-<!-- GitHub Stats with Interactive Layout -->
+<!-- GitHub Analytics - NUCLEAR OPTION (Guaranteed to work) -->
 <details open>
-<summary><h2>📊 <b>GitHub Analytics</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2></summary>
+<summary><h2>📊 GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2></summary>
 
 <div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shitbaKashif&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shitbaKashif&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <!-- Top Languages -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitbaKashif&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
-  
-  <br><br>
-  
-  <!-- Activity Graph -->
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
-  
-  <br><br>
-  
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=shitbaKashif&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" width="100%" />
-  
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shitbaKashif&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" height="200" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=shitbaKashif&theme=radical&hide_border=true" width="100%" height="200" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shitbaKashif&layout=compact&theme=radical&hide_border=true&langs_count=8" width="60%" height="200" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shitbaKashif&theme=github-compact&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shitbaKashif&theme=radical&no-frame=true&row=1&column=6" width="100%" alt="Trophies" />
+
 </div>
 </details>
 
@@ -268,7 +272,7 @@
 
 | Role | Organization | Period | Impact |
 |------|-------------|--------|---------|
-| **Head of AI/ML/Data Interns** | PCN Lab | Jun 2024 - Aug 2024 | Mentored 15+ interns in AI/ML projects |
+| **Head of AI/ML/Data Interns** | PCN Lab | Jun 2024 - Aug 2024 | Mentored interns in AI/ML projects |
 | **Head of NLP/CV/DL Interns** | KDD Lab | May 2025 - Aug 2025 | Led deep learning research initiatives |
 | **Event Head - Agentika** | TechConnect FAST | 2024 | Organized FAST's **first-ever Agent-based AI Hackathon** |
 | **IT Team Member** | Nascon FAST | 2023-2024 | Developed official Nascon website |
@@ -293,7 +297,7 @@
 
 🌙 **Night Owl Coder:** Most of my breakthrough RAG implementations happen between 2 AM - 5 AM
 
-☕ **Fuel:** Powered by chai and the curiosity to make machines understand human context
+☕ **Fuel:** Powered by coffee and the curiosity to make machines understand human context
 
 🎯 **Current Obsession:** Optimizing GraphRAG pipelines for real-time semantic search
 
